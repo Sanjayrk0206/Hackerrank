@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;700&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap");
+.body-container {
+  width: 53.61%;
+  margin-bottom: 50px;
+}
+
+.body-container .head {
+  font-weight: 400;
+  font-size: calc(15px + 1.7vw);
+  line-height: 1.35em;
+  color: #738f93;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 5%;
+  letter-spacing: -0.013em;
+}
+
+.body-container .row {
+  margin-bottom: 30px;
+}
+
+.body-container .col {
+  padding-top: 3%;
+}
+
+.body-container h4 {
+  font-size: 1.877em;
+  font-family: "Source Code Pro", sans-serif;
+  font-weight: 700;
+  margin-bottom: 5%;
+  word-spacing: -5px;
+  color: #39424e;
+}
+
+.body-container p {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 400;
+  color: #576871;
+  margin-bottom: 10%;
+  font-size: 17px;
+}
+
+.body-container .hiring_button {
+  font-family: "Source Code Pro", sans-serif;
+  font-weight: 700;
+  font-size: 18.005px;
+  background-color: #1ba94c;
+  color: white;
+  border: 1px solid #1ba94c;
+  padding: 10px 25px;
+  -webkit-box-shadow: 0px 3px 13px rgba(27, 169, 76, 0.6);
+          box-shadow: 0px 3px 13px rgba(27, 169, 76, 0.6);
+  border-radius: 2px;
+  word-spacing: -3px;
+}
+
+.body-container .hiring_button:hover {
+  -webkit-box-shadow: 0px 3px 5px rgba(27, 169, 76, 0.6);
+          box-shadow: 0px 3px 5px rgba(27, 169, 76, 0.6);
+}
+
+.body-container .signup_button {
+  font-family: "Source Code Pro", sans-serif;
+  font-weight: 700;
+  font-size: 18.005px;
+  background-color: white;
+  color: #1ba94c;
+  border: 1px solid #1ba94c;
+  padding: 10px 25px;
+  word-spacing: -3px;
+  border-radius: 2px;
+}
+
+.body-container .signup_button:hover {
+  color: #1dbb54;
+}
+/*# sourceMappingURL=style.css.map */

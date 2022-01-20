@@ -1,0 +1,27 @@
+.Footer {
+  font-size: 0.773em;
+  font-family: "Opan Sans", sans-serif;
+  color: #576871;
+}
+
+.Footer .copyright {
+  margin-bottom: 0.5em;
+}
+
+.Footer p {
+  display: inline;
+  border-right: 2px solid #738f93;
+  padding-right: 10px;
+}
+
+.Footer a {
+  padding-left: 10px;
+  text-decoration: none;
+  color: #576871;
+}
+
+.Footer a:hover {
+  color: #576871;
+  text-decoration: underline;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,24 @@
+$primary: #576871;
+
+.Footer {
+  font-size: 0.773em;
+  font-family: "Opan Sans", sans-serif;
+  color: $primary;
+  .copyright {
+    margin-bottom: 0.5em;
+  }
+  p {
+    display: inline;
+    border-right: 2px solid #738f93;
+    padding-right: 10px;
+  }
+  a {
+    padding-left: 10px;
+    text-decoration: none;
+    color: $primary;
+  }
+  a:hover {
+    color: $primary;
+    text-decoration: underline;
+  }
+}
