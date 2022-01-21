@@ -3,7 +3,7 @@ import "./style.css";
 
 export const Navigation = () => {
   return <div className='navigation_container'>
-    <div>
+    <div className='block'>
     <img src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" className="logo" alt="HackerRank Logo" loading="lazy"></img>
     <ul>
       <li>
