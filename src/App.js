@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import "./App.css";
 
 function App() {
-  return (<>
+  return (<div>
       <div className="container">
         <Navigation />
       </div>
@@ -15,7 +15,7 @@ function App() {
           <Footer />
         </div>
       </div>
-    </>
+    </div>
   );
 }
 
